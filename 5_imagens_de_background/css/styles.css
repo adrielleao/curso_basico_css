@@ -1,0 +1,12 @@
+#background {
+    background-image: url("../img/imagem.jpg");
+    background-size: cover;
+    height: 600px;
+
+}
+
+#background h2 {
+    color: #fff;
+    text-align: center;
+    font-size: 80px;
+}

@@ -1,0 +1,26 @@
+/* Este é o primeiro comentário*/
+
+h1 {
+    color: red;
+    font-size: 60px;
+}
+
+/*
+  Um comentário
+  com
+  várias 
+  linhas
+*/
+.paragrafo {
+    color: green;
+    background-color: black;
+}
+
+#segundo-titulo {
+    color: purple;
+}
+
+p {
+    color: blue;
+}
+
